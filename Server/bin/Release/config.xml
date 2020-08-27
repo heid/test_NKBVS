@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<Config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ResolutionX>320</ResolutionX>
+  <ResolutionY>240</ResolutionY>
+  <FrameRate>10</FrameRate>
+  <NetSpeed>1000</NetSpeed>
+  <Ip>127.0.0.1</Ip>
+  <Port>8888</Port>
+</Config>

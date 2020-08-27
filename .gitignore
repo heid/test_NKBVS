@@ -1,0 +1,11 @@
+.vs
+/*.suo
+
+Client/bin
+Client/obj
+
+Server/obj
+Server/bin/Debug/*
+Server/bin/Release/*
+!Server/bin/Debug/config.xml
+!Server/bin/Release/config.xml
